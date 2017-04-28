@@ -1,0 +1,28 @@
+{
+  "name": "testmybot-sample-monitoring",
+  "version": "1.0.0",
+  "description": "Continuous Testing for your Chatbots - Sample Monitoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeforequity-at/testmybot-sample-monitoring.git"
+  },
+  "keywords": [
+    "continuous",
+    "testing",
+    "chatbot"
+  ],
+  "author": "Florian Treml",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeforequity-at/testmybot-sample-monitoring/issues"
+  },
+  "homepage": "https://github.com/codeforequity-at/testmybot-sample-monitoring#readme",
+  "dependencies": {
+    "testmybot": "^0.2.4",
+    "testmybot-chat": "^0.2.4"
+  }
+}
