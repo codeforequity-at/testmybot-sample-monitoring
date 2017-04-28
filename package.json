@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/codeforequity-at/testmybot-sample-monitoring#readme",
   "dependencies": {
+    "jasmine": "^2.6.0",
     "testmybot": "^0.2.4",
     "testmybot-chat": "^0.2.4"
   }
